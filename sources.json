@@ -138,5 +138,12 @@
     "baseUrl": "https://zy.xmm.hk/api.php/provide/vod",
     "group": "normal",
     "priority": 20
+  },
+    {
+    "id": "HH",
+    "name": "HHZY",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 21
   }
 ]
