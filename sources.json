@@ -208,14 +208,6 @@
         "priority": 26
     },
     {
-        "id": "feifancj2",
-        "name": "非凡采集HTTPS",
-        "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 27
-    },
-    {
         "id": "feifan1",
         "name": "非凡线路1",
         "baseUrl": "https://ffzy1.tv/api.php/provide/vod",
@@ -256,36 +248,12 @@
         "priority": 32
     },
     {
-        "id": "guangsu2",
-        "name": "光速HTTP",
-        "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 33
-    },
-    {
-        "id": "xinlang2",
-        "name": "新浪HTTPS",
-        "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 34
-    },
-    {
         "id": "yilingba2",
         "name": "1080JSON",
         "baseUrl": "https://api.1080zyku.com/inc/apijson.php",
         "group": "normal",
         "enabled": true,
         "priority": 35
-    },
-    {
-        "id": "lezi2",
-        "name": "乐子HTTP",
-        "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 36
     },
     {
         "id": "uku88",
